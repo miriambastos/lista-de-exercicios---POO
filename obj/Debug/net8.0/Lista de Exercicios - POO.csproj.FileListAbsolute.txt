@@ -1,0 +1,14 @@
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.AssemblyInfoInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.AssemblyInfo.cs
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.csproj.CoreCompileInputs.cache
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\bin\Debug\net8.0\Lista de Exercicios - POO.exe
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\bin\Debug\net8.0\Lista de Exercicios - POO.deps.json
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\bin\Debug\net8.0\Lista de Exercicios - POO.runtimeconfig.json
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\bin\Debug\net8.0\Lista de Exercicios - POO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\bin\Debug\net8.0\Lista de Exercicios - POO.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\refint\Lista de Exercicios - POO.dll
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.pdb
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\Lista de Exercicios - POO.genruntimeconfig.cache
+C:\Users\madra\OneDrive\Área de Trabalho\Lista de Exercicios - POO\obj\Debug\net8.0\ref\Lista de Exercicios - POO.dll
